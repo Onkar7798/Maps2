@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Maps_Test</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="please_turn_on_your_location_to_access_ect">Please turn on your Location to access ECT</string>
+    <string name="turn_on_gps">Turn On GPS</string>
+</resources>
